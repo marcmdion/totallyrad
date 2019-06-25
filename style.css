@@ -1,5 +1,5 @@
 .header-img {
-	width: 140px;
+	width: 100px;
 	border-radius: 20px;
 }
 .header-container {
@@ -15,7 +15,7 @@ h1 {
 
 @media only screen and (max-width: 850px) {
 	.header-img{
-		width: 90px;
+		width: 60px;
 	}
 }
 
