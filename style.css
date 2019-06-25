@@ -1,5 +1,5 @@
 .header-img {
-	width: 150px;
+	width: 140px;
 	border-radius: 20px;
 }
 .header-container {
@@ -11,4 +11,16 @@
 
 h1 {
 	color: black;
+}
+
+@media only screen and (max-width: 850px) {
+	.header-img{
+		width: 90px;
+	}
+}
+
+@media only screen and (max-width: 650px) {
+	.header-img{
+		width: 75px;
+	}
 }
