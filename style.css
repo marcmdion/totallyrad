@@ -1,0 +1,14 @@
+.header-img {
+	width: 150px;
+	border-radius: 20px;
+}
+.header-container {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	z-index: 99;
+}
+
+h1 {
+	color: black;
+}
